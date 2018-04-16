@@ -1,0 +1,8 @@
+{
+  "name": "myFilmIonic",
+  "app_id": "0f7b8064",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
